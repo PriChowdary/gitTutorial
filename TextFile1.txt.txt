@@ -1,6 +1,6 @@
 Hello World !!
-A wants to invent a game  - by A ! second line
 This is second line to the file
 My name is A
 and I am Ben
 Hi testing 
+B wants to invent a game -  by B!!
