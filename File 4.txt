@@ -1,2 +1,4 @@
 B added at 1st line
 In file 4, created by B
+A added at line 3
+
