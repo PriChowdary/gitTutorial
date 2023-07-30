@@ -3,5 +3,5 @@ B added at 1st line
 B added at 2nd line
 B added at 3rd line
 In file 4, created by B
-
+Added by B -checking 2 different files
 
