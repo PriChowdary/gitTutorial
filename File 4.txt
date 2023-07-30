@@ -1,3 +1,4 @@
+A added at 1st line
 B added at 1st line
 B added at 2nd line
 In file 4, created by B
